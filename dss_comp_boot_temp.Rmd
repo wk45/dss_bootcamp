@@ -1,6 +1,6 @@
 ---
 title: "DSS Computing Bootcamp Template"
-author: "Woo Min A Kim"
+author: "Woo Min Aiden Kim"
 <<<<<<< HEAD
 date: "8/25/2016"
 =======
