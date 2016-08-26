@@ -1,7 +1,11 @@
 ---
 title: "DSS Computing Bootcamp Template"
 author: "Woo Min A Kim"
+<<<<<<< HEAD
 date: "8/25/2016"
+=======
+date: "8/26/2016"
+>>>>>>> e8fea228809ad1ab11e1debef020259145daa07a
 output: html_document
 ---
 
